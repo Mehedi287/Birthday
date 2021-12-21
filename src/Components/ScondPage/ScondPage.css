@@ -1,0 +1,15 @@
+.text{
+    color: aquamarine;
+    font-weight: 900;
+    
+}
+.span{
+    color: hotpink;
+}
+.second{
+    background-image: url("https://i.ibb.co/Csq6kWp/animation-img.gif");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 80vh;
+    width: 100%;
+}
