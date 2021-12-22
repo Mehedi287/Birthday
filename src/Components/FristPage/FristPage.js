@@ -12,8 +12,8 @@ const FristPage = () => {
 
     return (
         <div>
-            <div className="d-block">
-                <Carousel>
+            <div className="d-block p-2 mx-auto">
+                <Carousel className='w-100'>
                     <Carousel.Item interval={5000}>
                         <img
                             className="d-block w-100 img-fluid custom"
@@ -49,7 +49,7 @@ const FristPage = () => {
                 </Carousel>
             </div>
 
-            <div className="love">
+            <div className="mx-auto love ">
                 <Link to="/scondPage"> <button type="button" id="button" class="buttons">next</button></Link>
 
                 <div id="heart1" className="hearts"></div>
