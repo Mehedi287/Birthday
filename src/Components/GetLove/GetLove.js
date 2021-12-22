@@ -8,7 +8,7 @@ const GetLove = () => {
         <div className="">
             <div className="d-block p-2 mx-auto">
                 <Carousel className='w-100'>
-                    <Carousel.Item interval={1000}>
+                    <Carousel.Item interval={1500}>
                         <img
                             className="d-block w-100 img-fluid custom "
                             src="https://c.tenor.com/ApwLo0725IoAAAAM/rosycheeks-mochi-peach.gif"
@@ -19,7 +19,7 @@ const GetLove = () => {
 
                         </Carousel.Caption>
                     </Carousel.Item>
-                    <Carousel.Item interval={1000}>
+                    <Carousel.Item interval={1500}>
                         <img
                             className="d-block w-100 img-fluid custom "
                             src="https://c.tenor.com/8QzDyja2bhMAAAAM/love-hug.gif"
@@ -30,7 +30,7 @@ const GetLove = () => {
 
                         </Carousel.Caption>
                     </Carousel.Item>
-                    <Carousel.Item interval={1000}>
+                    <Carousel.Item interval={1500}>
                         <img
                             className="d-block w-100 img-fluid custom"
                             src="https://c.tenor.com/44hM4CjIbmoAAAAM/hug-kiss.gif"
@@ -40,7 +40,7 @@ const GetLove = () => {
 
                         </Carousel.Caption>
                     </Carousel.Item>
-                    <Carousel.Item interval={1000}>
+                    <Carousel.Item interval={1500}>
                         <img
                             className="d-block w-100 img-fluid custom"
                             src="https://c.tenor.com/S-ZkEwV3kQUAAAAM/snow-white-kiss.gif"
@@ -52,7 +52,7 @@ const GetLove = () => {
                         </Carousel.Caption>
                     </Carousel.Item>
 
-                    <Carousel.Item interval={1000}>
+                    <Carousel.Item interval={1500}>
                         <img
                             className="d-block w-100 img-fluid custom "
                             src="https://c.tenor.com/f_q9fU0XQ7sAAAAj/130718-my-love.gif"
